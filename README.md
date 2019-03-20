@@ -15,39 +15,30 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+####2.1 
+user see too much product on a singgle page , the product hasn't good arranged
+####2.2
+there is a navbar that hold search function and category . under the navbar there are some promotion page
+####2.3
+there is a navbar that hold search function. on the left of the screen there are some sidebar that hold categorize and on the mid there are some featured product
+####2.4
+there is a navbar that hold category . under the navbar there are some search bar that fully covered the page
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
-
+i like the second one because its more simple and there is easy to apply 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
-
+Based on contextual inquiry . second one is good because there are navbar and sidebar with different function so the user can easily know how to search or how to select the category
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+- Operating System (like mac windows or linux)
+- Physical Input : Mouse and Keyboard
+- Screen Color : RGB
+- Browser
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+1. All User that ever operating computer before
+2. the experience level only depend how fast the user can understand the page
+3. 10-60 ages
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
