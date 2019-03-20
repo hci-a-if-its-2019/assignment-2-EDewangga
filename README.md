@@ -7,27 +7,32 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+##### 1.1 Original
+![original](Assets/original.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+##### 1.2 Solution 1
+![solution 1](image/image1.jpg)
+
+##### 1.3 Solution 2
+![solution 2](image/image2.jpg)
+
+##### 1.4 Solution 3
+![solution 3](image/image3.jpg)
 
 ### 2. Version Differences
 ####2.1 
 user see too much product on a singgle page , the product hasn't good arranged
 ####2.2
-there is a navbar that hold search function and category . under the navbar there are some promotion page
+there is a navbar that hold search function and category . under the navbar there are some promotion product. and under the promotion we can scroll it to the second page there are the product
 ####2.3
 there is a navbar that hold search function. on the left of the screen there are some sidebar that hold categorize and on the mid there are some featured product
 ####2.4
 there is a navbar that hold category . under the navbar there are some search bar that fully covered the page
 
 ### 3. Selected Sketch
-i like the second one because its more simple and there is easy to apply 
+i like the frits one because its more simple and there is easy to apply 
 ### 4. Design Rationale
-Based on contextual inquiry . second one is good because there are navbar and sidebar with different function so the user can easily know how to search or how to select the category
+Based on contextual inquiry . frist one is good because there is only one navbar with 2 function so the user can easily know how to search or how to select the category without another distraction
 ## Part B: Assumptions
 ### 1. Hardware
 - Operating System (like mac windows or linux)
