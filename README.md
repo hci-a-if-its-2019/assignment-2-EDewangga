@@ -20,14 +20,22 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ![solution 3](image/image3.jpg)
 
 ### 2. Version Differences
+
 ####2.1 
 user see too much product on a singgle page , the product hasn't good arranged
+
+
 ####2.2
 there is a navbar that hold search function and category . under the navbar there are some promotion product. and under the promotion we can scroll it to the second page there are the product
+
+
 ####2.3
 there is a navbar that hold search function. on the left of the screen there are some sidebar that hold categorize and on the mid there are some featured product
+
+
 ####2.4
 there is a navbar that hold category . under the navbar there are some search bar that fully covered the page
+
 
 ### 3. Selected Sketch
 i like the frits one because its more simple and there is easy to apply 
