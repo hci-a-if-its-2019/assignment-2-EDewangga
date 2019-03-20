@@ -21,17 +21,16 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 2. Version Differences
 
-####2.1 
+##### 2.1 Original
 user see too much product on a singgle page , the product hasn't good arranged
 
-
-####2.2
+##### 2.2 Solution 1
 there is a navbar that hold search function and category . under the navbar there are some promotion page
-####2.3
+
+##### 2.3 Solution 2
 there is a navbar that hold search function. on the left of the screen there are some sidebar that hold categorize and on the mid there are some featured product
 
-
-####2.4
+##### 2.4 Solution 3
 there is a navbar that hold category . under the navbar there are some search bar that fully covered the page
 
 
