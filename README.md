@@ -46,9 +46,9 @@ Based on contextual inquiry . frist one is good because there is only one navbar
 - Browser
 
 ### 2. Users
-1. All User that ever operating computer before
+1. All User that familiar with operating computer
 2. the experience level only depend how fast the user can understand the page
-3. 10-60 ages
+3. 18 years old (atleast have an id card) 
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
