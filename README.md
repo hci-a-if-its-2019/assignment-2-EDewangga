@@ -53,4 +53,4 @@ Based on contextual inquiry . frist one is good because there is only one navbar
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
 ![prototype](image/prototype.png)
-https://invis.io/N5R8W2JBXG7
+https://invis.io/Z6RCJMFWVTJ
